@@ -1,1 +1,2 @@
-# EPD2-TAD-sparmuo-jagutino
+Sergio Parejo Muñoz
+Jose Antonio Gutierrez Inurria
